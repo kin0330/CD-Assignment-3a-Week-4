@@ -47,7 +47,7 @@ Data are available for download as the following comma-separated values (CSV) fi
 ## Language:
 The main language of all texts is English.
 
-## Methods:
+## Methodology:
 This dashboard displays longitudinal measures of Public health and social measures（PHSM）severity and timing by country, territory or area against 7-day rolling average counts of confirmed cases and deaths reported, using the data and methodology developed by Oxford COVID-19 Government Response Tracker (OxCGRT). The OxCGRT data is collected and calculated by the team at the Blavatnik School of Government at the University of Oxford.
 
 
